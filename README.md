@@ -3,6 +3,14 @@
 ## 📱 Sobre o Projeto
 CinemaApp é um aplicativo Android moderno para exploração de filmes, desenvolvido com as mais recentes tecnologias do ecossistema Android. O aplicativo permite aos usuários descobrir filmes populares, bem avaliados e próximos lançamentos, além de salvar seus favoritos.
 
+## 📱 Preview do App
+
+https://github.com/user-attachments/assets/3dca15c3-ab0e-47db-9daf-7b9e1270af1a
+
+### 🌙 Modo Escuro
+
+https://github.com/user-attachments/assets/a1a177b6-40ff-4e16-a908-2cd08c1d9818
+
 ## ✨ Features do Aplicativo
 
 - **🧭 Navegação Intuitiva**: Interface limpa e moderna com rolagem suave e navegação entre telas.
@@ -151,24 +159,6 @@ O aplicativo utiliza Hilt para injeção de dependência, facilitando:
 - **🌀 Turbine**: 1.0.0 - [GitHub](https://github.com/cashapp/turbine)
 - **⚖️ Truth**: 1.1.5 - [GitHub](https://github.com/google/truth)
 - **🔬 Compose UI Test**: Integrado ao Compose - [Documentação](https://developer.android.com/jetpack/compose/testing)
-
-## 📱 Preview do App
-
-### 🏠 Tela Inicial
-<!-- Adicionar screenshots/GIFs da tela inicial -->
-![Tela Inicial](path_to_image/home_screen.png)
-
-### 🔍 Pesquisa de Filmes
-<!-- Adicionar screenshots/GIFs da funcionalidade de pesquisa -->
-![Pesquisa](path_to_image/search_screen.png)
-
-### 📋 Detalhes do Filme
-<!-- Adicionar screenshots/GIFs da tela de detalhes -->
-![Detalhes](path_to_image/details_screen.png)
-
-### 🌙 Modo Escuro
-<!-- Adicionar screenshots/GIFs do modo escuro -->
-![Modo Escuro](path_to_image/dark_mode.png)
 
 ## 🚀 Como Executar
 
