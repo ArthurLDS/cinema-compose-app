@@ -1,0 +1,49 @@
+<resources>
+
+    <!-- APP Settings -->
+    <string name="app_name">Cinema App</string>
+    
+    <!-- Tela Principal (Home) -->
+    <string name="home_title">Cinema App</string>
+    <string name="section_popular">Populares</string>
+    <string name="section_top_rated">Os mais bem avaliados</string>
+    <string name="section_upcoming">Disponíveis em breve</string>
+    <string name="no_popular_movies">Nenhum filme popular encontrado</string>
+    <string name="recommended">Recomendado</string>
+    
+    <!-- Tela de Busca -->
+    <string name="search_title">Buscar Filmes</string>
+    <string name="search_hint">Digite o nome de um filme...</string>
+    <string name="search_empty_hint">Digite algo para buscar filmes</string>
+    <string name="search_no_results">Nenhum filme encontrado para \'%1$s\'</string>
+    
+    <!-- Favoritos -->
+    <string name="add_to_favorites">Adicionar aos favoritos</string>
+    <string name="remove_from_favorites">Remover dos favoritos</string>
+    
+    <!-- Navegação -->
+    <string name="navigation_back">Voltar</string>
+    <string name="navigation_search">Buscar</string>
+    <string name="navigation_clear">Limpar</string>
+    
+    <!-- Estados de Loading e Erro -->
+    <string name="loading">Carregando...</string>
+    <string name="error_unknown">Erro desconhecido</string>
+    <string name="error_loading_movies">Erro ao carregar filmes</string>
+    <string name="error_loading_more_movies">Não foi possível carregar mais filmes</string>
+    <string name="error_generic">Erro: %1$s</string>
+    <string name="retry">Tentar novamente</string>
+    <string name="error_simple">Erro</string>
+    <string name="no_movies_found">Nenhum filme encontrado</string>
+    
+    <!-- Detalhes -->
+    <string name="movie_details">Detalhes do Filme</string>
+    <string name="release_date">Data de lançamento</string>
+    <string name="overview">Sinopse</string>
+    <string name="rating">Avaliação</string>
+
+    <!-- Favoritos -->
+    <string name="screen_title_favorites">Favoritos</string>
+    <string name="favorites_empty">Nenhum filme favorito adicionado ainda</string>
+
+</resources>
