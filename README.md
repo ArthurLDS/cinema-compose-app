@@ -169,7 +169,3 @@ O aplicativo utiliza Hilt para injeção de dependência, facilitando:
    tmdb.api.key=SUA_CHAVE_AQUI
    ```
 4. Execute o aplicativo no emulador ou dispositivo
-
-## 📄 Licença
-
-Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para detalhes.
